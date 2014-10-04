@@ -8,8 +8,8 @@
 			parent::__construct();
 
 			$this->load->model('Usuarios');
-			$this->load->model('Tweets');
-			$this->load->model('Seguidores');
+			$this->load->model('Tweets');      //foi criado o construtor
+			$this->load->model('Seguidores');  //foi criado o construtor
 
 			$this->erro = '';
 		} // function
@@ -238,7 +238,7 @@
 
 
 
-		public function postartweet()		//criado ##########
+		public function postartweet()		//função criada para a postagem de tweets
 
 		{
 			// regras para validação do formulário
@@ -281,14 +281,14 @@
 
 
 
-		public function buscar()		//criado ##########
+		public function buscar()		//função para a busca de usuários
 
 		{ 
 			
 			// regras para validação do formulário
 			$this->_set_validation_rules('buscar');
 
-			// se o a validação do formulário foi bem sucedida
+			// se a validação do formulário foi bem sucedida
 			if ($this->form_validation->run())
 			{
 				

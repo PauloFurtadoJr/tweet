@@ -29,7 +29,7 @@
 			return $this->db->where('login', $login)->get('usuarios')->row();
 		}
 
-		public function buscar($name)
+		public function buscar($name) //criada a função para retornar a busca
 		{
 			return $this->db->like('nome', $name)->get('usuarios')->result();
 		}
