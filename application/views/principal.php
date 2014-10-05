@@ -76,7 +76,7 @@
           <div class="row">
             <div class="col-lg-6 col-md-6">
               <ul class="nav navbar-nav">
-                <li><a href="#"><i class="glyphicon glyphicon-home"></i> Início</a></li>
+                <li><a href="<?=base_url();?>"><i class="glyphicon glyphicon-home"></i> Início</a></li>
                 <li><a href="#"><i class="glyphicon glyphicon-bell"></i> Notificações</a></li>
                 <li><a href="#"><strong><big>#</big></strong> Descobrir</a></li>
                 <li><a href="#"><i class="glyphicon glyphicon-user"></i> Conta</a></li>
@@ -155,7 +155,8 @@
           
             <textarea id="tweet" class="form-control" rows="1" cols="30" name="texto" maxlength="140"   onfocus="this.rows=4, mostrar()"  
                     onblur="if($('#tweet').val() == '') {this.rows=1; esconder(); }" 
-                    onkeyup="mostrarResultado(this.value,140,'spcontando')" style="resize:none;" placeholder="Publique seu tweet..."></textarea>
+                    onkeyup="" style="resize:none;" placeholder="Publique seu tweet..."></textarea>
+           
             <div id="botaoecont" class="esconder">
              
             
@@ -262,13 +263,6 @@
                       <input type="hidden" name="codigo_seguido"              
                         id="codigo_seguido" value="<?=$resultado->codigo?>"> 
 
-                       <script> //como colocar codigo do seguido no imput acima??
-                                //para poder fazer comparação se já estou seguindo ou não.
-                        function mostrar() {    
-                            $('#seguir').show();
-                            $('#naoseguir').show();                 
-                          }
-                        </script>
 
                       <div class="col-lg-4 col-md-4 col-sm-4">
 
@@ -312,12 +306,10 @@
                       <div class="col-lg-12 col-md-12 col-sm-12">
                         
                         <button id="seguir" type="submit" onclick="action='<?=base_url();?>usuario/seguir'"
-                          class="btn btn-primary ">Seguir
-                        </button>
+                          class="btn btn-primary ">Seguir</button>
 
                         <button id="naoseguir" type="submit" onclick="action='<?=base_url();?>usuario/naoseguir'"
-                          class="btn btn-primary pull-right">Deixar de Seguir
-                        </button>
+                          class="btn btn-primary pull-right">Deixar de Seguir</button>
                       </div> 
                       </form>                     
                      </div>

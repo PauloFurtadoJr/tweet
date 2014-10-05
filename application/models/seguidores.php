@@ -9,7 +9,7 @@
 
 		public function countFollowing($id_usuario)
 		{
-			return $this->db->where('codigo_seguido', $id_usuario)->
+			return $this->db->where('codigo_seguidor', $id_usuario)->
 				count_all_results('seguidores');
 		}
 
