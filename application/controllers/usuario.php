@@ -257,13 +257,15 @@
 				redirect(base_url());
 			}
 		}
+		
+		
 
         public function seguir()
 		{
 			$dados["codigo_seguidor"]=$this->session->userdata("user_id");
 			$dados["codigo_seguido"]=$this->input->post("codigo");
 			$id = $this->Seguidores->insert($dados);
-
+			
 			redirect(base_url());				
 		}
 
@@ -275,25 +277,25 @@
 
 			redirect(base_url());
 		}
+		
+		
 
 
 
 
-
-
-		public function buscar()		//função para a busca de usuários
+		//Search usuarios
+		public function buscar()		
 
 		{ 
 			
-			// regras para validação do formulário
+			// rules to form validation
 			$this->_set_validation_rules('buscar');
 
-			// se a validação do formulário foi bem sucedida
+			//validado com sucesso
 			if ($this->form_validation->run())
 			{
 				
-				// procura os dados no bd
-
+				// search no banco de dados
 				$usuario = $this->Usuarios->get($this->session->userdata('user_id'));
 				$dados = array();
 				$dados['usuario']        = $usuario;
@@ -301,12 +303,24 @@
 				$dados['num_seguindo']   = $this->Seguidores->countFollowing($usuario->codigo);
 				$dados['num_tweets']     = $this->Tweets->countByUser($usuario->codigo);
 				
+				
 				$resultados = $this->Usuarios->buscar($this->input->post("buscar"));
 				foreach ($resultados as $resultado) {
 					$resultado->num_seguidores=$this->Seguidores->countFollowers($resultado->codigo);
 					$resultado->num_seguindo=$this->Seguidores->countFollowing($resultado->codigo);
 					$resultado->num_tweets=$this->Tweets->countByUser($resultado->codigo);
-					//$resultado->codigo_seguido=$this->Seguidores->getBySeguido($resultado->codigo);
+					//$resultado->codigo_seguido=$this->Seguidores->verificarSeguidor($resultado->codigo)->codigo_seguido;
+				
+					if (!$this->Seguidores->verificarSeguidor($this->session->userdata('user_id'), $resultado->codigo)){
+						
+					$resultado->seguindo = FALSE;				
+				
+					} else {
+					
+						$resultado->seguindo = TRUE;
+					
+					}
+				
 				}
 				$dados["resultados"]=$resultados;
 				$this->load->view("principal",$dados);

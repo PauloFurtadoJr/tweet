@@ -11,6 +11,13 @@
 			$this->db->insert('tweets', $dados);
 			return $this->db->insert_id();
 		}
+		
+		public function getById ($tweets)
+
+		{
+			return $this->db->where('tweets', $tweets)->get('texto')->row();	
+		}
+		
 	}
 
 /* End of file tweets.php */

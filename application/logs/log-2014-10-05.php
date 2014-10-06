@@ -4262,3 +4262,3476 @@ DEBUG - 2014-10-05 02:28:27 --> Model Class Initialized
 DEBUG - 2014-10-05 02:28:27 --> File loaded: application/views/principal.php
 DEBUG - 2014-10-05 02:28:27 --> Final output sent to browser
 DEBUG - 2014-10-05 02:28:27 --> Total execution time: 0.8129
+DEBUG - 2014-10-05 17:23:12 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:12 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:12 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:12 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:12 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:12 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:12 --> A session cookie was not found.
+DEBUG - 2014-10-05 17:23:12 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:12 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:12 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:12 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:12 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:12 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:12 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:12 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:12 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:12 --> File loaded: application/views/inicio.php
+DEBUG - 2014-10-05 17:23:12 --> Final output sent to browser
+DEBUG - 2014-10-05 17:23:12 --> Total execution time: 0.1126
+DEBUG - 2014-10-05 17:23:17 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:17 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:17 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:17 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:17 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:17 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:17 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:17 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:17 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:23:17 --> Form validated.
+DEBUG - 2014-10-05 17:23:18 --> File loaded: application/views/inicio.php
+DEBUG - 2014-10-05 17:23:18 --> Final output sent to browser
+DEBUG - 2014-10-05 17:23:18 --> Total execution time: 0.1968
+DEBUG - 2014-10-05 17:23:18 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:18 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:18 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:18 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:18 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:18 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:18 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:18 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:18 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:18 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:18 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:18 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:18 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:18 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:18 --> Model Class Initialized
+ERROR - 2014-10-05 17:23:18 --> 404 Page Not Found --> usuario/js
+ERROR - 2014-10-05 17:23:18 --> 404 Page Not Found --> usuario/js
+DEBUG - 2014-10-05 17:23:22 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:22 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:22 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:22 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:22 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:22 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:23:22 --> Form validated.
+DEBUG - 2014-10-05 17:23:22 --> File loaded: application/views/inicio.php
+DEBUG - 2014-10-05 17:23:22 --> Final output sent to browser
+DEBUG - 2014-10-05 17:23:22 --> Total execution time: 0.1107
+DEBUG - 2014-10-05 17:23:22 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:22 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:22 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:22 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:22 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:22 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:22 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Form Validation Class Initialized
+ERROR - 2014-10-05 17:23:22 --> 404 Page Not Found --> usuario/js
+DEBUG - 2014-10-05 17:23:22 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:22 --> Model Class Initialized
+ERROR - 2014-10-05 17:23:22 --> 404 Page Not Found --> usuario/js
+DEBUG - 2014-10-05 17:23:30 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:30 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:30 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:30 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:30 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:30 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:30 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:30 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:30 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:23:30 --> Form validated.
+DEBUG - 2014-10-05 17:23:30 --> File loaded: application/views/inicio.php
+DEBUG - 2014-10-05 17:23:30 --> Final output sent to browser
+DEBUG - 2014-10-05 17:23:30 --> Total execution time: 0.1260
+DEBUG - 2014-10-05 17:23:31 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:31 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:31 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:31 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:31 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:31 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:31 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:31 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:31 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:31 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:31 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:31 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:31 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:31 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:31 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:31 --> Model Class Initialized
+ERROR - 2014-10-05 17:23:31 --> 404 Page Not Found --> usuario/js
+ERROR - 2014-10-05 17:23:31 --> 404 Page Not Found --> usuario/js
+DEBUG - 2014-10-05 17:23:34 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:34 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:34 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:34 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:34 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:34 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:23:34 --> Form validated.
+DEBUG - 2014-10-05 17:23:34 --> File loaded: application/views/inicio.php
+DEBUG - 2014-10-05 17:23:34 --> Final output sent to browser
+DEBUG - 2014-10-05 17:23:34 --> Total execution time: 0.1213
+DEBUG - 2014-10-05 17:23:34 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:34 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:34 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:34 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:34 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:34 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:34 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:34 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:34 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+ERROR - 2014-10-05 17:23:34 --> 404 Page Not Found --> usuario/js
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:34 --> Model Class Initialized
+ERROR - 2014-10-05 17:23:34 --> 404 Page Not Found --> usuario/js
+DEBUG - 2014-10-05 17:23:39 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:39 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:39 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:39 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:39 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:39 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:39 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:39 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:23:39 --> Form validated.
+DEBUG - 2014-10-05 17:23:39 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:39 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 17:23:39 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:39 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:39 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:39 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:39 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:39 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:39 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:39 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:23:39 --> Final output sent to browser
+DEBUG - 2014-10-05 17:23:39 --> Total execution time: 0.2717
+DEBUG - 2014-10-05 17:23:58 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:58 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:58 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:58 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:58 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:58 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:58 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:58 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:23:58 --> Config Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:23:58 --> URI Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Router Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 17:23:58 --> Output Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Security Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Input Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:23:58 --> Language Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:23:58 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:23:58 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:23:58 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Session Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:23:58 --> Session routines successfully run
+DEBUG - 2014-10-05 17:23:58 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> Model Class Initialized
+DEBUG - 2014-10-05 17:23:58 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:23:58 --> Final output sent to browser
+DEBUG - 2014-10-05 17:23:58 --> Total execution time: 0.1275
+DEBUG - 2014-10-05 17:24:16 --> Config Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:24:16 --> URI Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Router Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Output Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Security Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Input Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:24:16 --> Language Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:24:16 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:24:16 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:24:16 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Session Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:24:16 --> Session routines successfully run
+DEBUG - 2014-10-05 17:24:16 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Model Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Model Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Model Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Model Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:24:16 --> Config Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:24:16 --> URI Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Router Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 17:24:16 --> Output Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Security Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Input Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:24:16 --> Language Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:24:16 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:24:16 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:24:16 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Session Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:24:16 --> Session routines successfully run
+DEBUG - 2014-10-05 17:24:16 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Model Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Model Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Model Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> Model Class Initialized
+DEBUG - 2014-10-05 17:24:16 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:24:16 --> Final output sent to browser
+DEBUG - 2014-10-05 17:24:16 --> Total execution time: 0.1184
+DEBUG - 2014-10-05 17:25:51 --> Config Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:25:51 --> URI Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Router Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Output Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Security Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Input Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:25:51 --> Language Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:25:51 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:25:51 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:25:51 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Session Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:25:51 --> Session routines successfully run
+DEBUG - 2014-10-05 17:25:51 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Model Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Model Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Model Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Model Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:25:51 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 17:25:51 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:25:51 --> Final output sent to browser
+DEBUG - 2014-10-05 17:25:51 --> Total execution time: 0.1413
+DEBUG - 2014-10-05 17:25:51 --> Config Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:25:51 --> URI Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Router Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Output Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Security Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Input Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:25:51 --> Language Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:25:51 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:25:51 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:25:51 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Session Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:25:51 --> Session routines successfully run
+DEBUG - 2014-10-05 17:25:51 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Model Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Model Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Model Class Initialized
+DEBUG - 2014-10-05 17:25:51 --> Model Class Initialized
+ERROR - 2014-10-05 17:25:51 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 17:26:10 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:10 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:10 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:10 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:10 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:10 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:10 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:10 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:26:10 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 17:26:10 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:26:10 --> Final output sent to browser
+DEBUG - 2014-10-05 17:26:10 --> Total execution time: 0.1505
+DEBUG - 2014-10-05 17:26:10 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:10 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:10 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:10 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:10 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:10 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:10 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:10 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:10 --> Model Class Initialized
+ERROR - 2014-10-05 17:26:10 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 17:26:17 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:17 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:17 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:17 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:17 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:17 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:17 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:17 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:26:17 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 17:26:17 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:26:17 --> Final output sent to browser
+DEBUG - 2014-10-05 17:26:17 --> Total execution time: 0.1540
+DEBUG - 2014-10-05 17:26:17 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:17 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:17 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:17 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:17 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:17 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:17 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:17 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:17 --> Model Class Initialized
+ERROR - 2014-10-05 17:26:17 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 17:26:24 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:24 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:24 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:24 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:24 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:24 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:24 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:24 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:24 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:25 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 17:26:25 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:25 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:25 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:25 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:25 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:25 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:25 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:25 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:26:25 --> Final output sent to browser
+DEBUG - 2014-10-05 17:26:25 --> Total execution time: 0.1405
+DEBUG - 2014-10-05 17:26:37 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:37 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:37 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:37 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:37 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:37 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:37 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:38 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:38 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:26:38 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 17:26:38 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:26:38 --> Final output sent to browser
+DEBUG - 2014-10-05 17:26:38 --> Total execution time: 0.1358
+DEBUG - 2014-10-05 17:26:38 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:38 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:38 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:38 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:38 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:38 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:38 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:38 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:38 --> Model Class Initialized
+ERROR - 2014-10-05 17:26:38 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 17:26:43 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:43 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:43 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:43 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:43 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:43 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:43 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:43 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:26:43 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 17:26:43 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:26:43 --> Final output sent to browser
+DEBUG - 2014-10-05 17:26:43 --> Total execution time: 0.1501
+DEBUG - 2014-10-05 17:26:43 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:43 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:43 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:43 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:43 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:43 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:43 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:43 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:43 --> Model Class Initialized
+ERROR - 2014-10-05 17:26:43 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 17:26:47 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:47 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:47 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:47 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:47 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:47 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:47 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:47 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 17:26:47 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 17:26:47 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:26:47 --> Final output sent to browser
+DEBUG - 2014-10-05 17:26:47 --> Total execution time: 0.1755
+DEBUG - 2014-10-05 17:26:47 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:47 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:47 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:47 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:47 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:47 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:47 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:47 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:47 --> Model Class Initialized
+ERROR - 2014-10-05 17:26:47 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 17:26:54 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:54 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:54 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:54 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:54 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:54 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:54 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:54 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Config Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Hooks Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 17:26:54 --> URI Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Router Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 17:26:54 --> Output Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Security Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Input Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 17:26:54 --> Language Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Loader Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 17:26:54 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 17:26:54 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 17:26:54 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Session Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 17:26:54 --> Session routines successfully run
+DEBUG - 2014-10-05 17:26:54 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Controller Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> Model Class Initialized
+DEBUG - 2014-10-05 17:26:54 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 17:26:54 --> Final output sent to browser
+DEBUG - 2014-10-05 17:26:54 --> Total execution time: 0.1347
+DEBUG - 2014-10-05 21:46:25 --> Config Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Hooks Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 21:46:25 --> URI Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Router Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 21:46:25 --> Output Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Security Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Input Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 21:46:25 --> Language Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Loader Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 21:46:25 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 21:46:25 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 21:46:25 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Session Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 21:46:25 --> A session cookie was not found.
+DEBUG - 2014-10-05 21:46:25 --> Session routines successfully run
+DEBUG - 2014-10-05 21:46:25 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Controller Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Config Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Hooks Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 21:46:25 --> URI Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Router Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Output Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Security Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Input Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 21:46:25 --> Language Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Loader Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 21:46:25 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 21:46:25 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 21:46:25 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Session Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 21:46:25 --> Session routines successfully run
+DEBUG - 2014-10-05 21:46:25 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Controller Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:25 --> File loaded: application/views/inicio.php
+DEBUG - 2014-10-05 21:46:25 --> Final output sent to browser
+DEBUG - 2014-10-05 21:46:25 --> Total execution time: 0.0980
+DEBUG - 2014-10-05 21:46:35 --> Config Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Hooks Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 21:46:35 --> URI Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Router Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Output Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Security Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Input Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 21:46:35 --> Language Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Loader Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 21:46:35 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 21:46:35 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 21:46:35 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Session Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 21:46:35 --> Session routines successfully run
+DEBUG - 2014-10-05 21:46:35 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Controller Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 21:46:35 --> Form validated.
+DEBUG - 2014-10-05 21:46:35 --> Config Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Hooks Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 21:46:35 --> URI Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Router Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 21:46:35 --> Output Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Security Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Input Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 21:46:35 --> Language Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Loader Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 21:46:35 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 21:46:35 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 21:46:35 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Session Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 21:46:35 --> Session routines successfully run
+DEBUG - 2014-10-05 21:46:35 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Controller Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:35 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 21:46:35 --> Final output sent to browser
+DEBUG - 2014-10-05 21:46:35 --> Total execution time: 0.1120
+DEBUG - 2014-10-05 21:46:53 --> Config Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Hooks Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 21:46:53 --> URI Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Router Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Output Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Security Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Input Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 21:46:53 --> Language Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Loader Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 21:46:53 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 21:46:53 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 21:46:53 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Session Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 21:46:53 --> Session routines successfully run
+DEBUG - 2014-10-05 21:46:53 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Controller Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 21:46:53 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 21:46:53 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 21:46:53 --> Final output sent to browser
+DEBUG - 2014-10-05 21:46:53 --> Total execution time: 0.1321
+DEBUG - 2014-10-05 21:46:53 --> Config Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Hooks Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 21:46:53 --> URI Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Router Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Output Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Security Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Input Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 21:46:53 --> Language Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Loader Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 21:46:53 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 21:46:53 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 21:46:53 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Session Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 21:46:53 --> Session routines successfully run
+DEBUG - 2014-10-05 21:46:53 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Controller Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:53 --> Model Class Initialized
+ERROR - 2014-10-05 21:46:53 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 21:46:56 --> Config Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Hooks Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 21:46:56 --> URI Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Router Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Output Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Security Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Input Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 21:46:56 --> Language Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Loader Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 21:46:56 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 21:46:56 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 21:46:56 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Session Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 21:46:56 --> Session routines successfully run
+DEBUG - 2014-10-05 21:46:56 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Controller Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 21:46:56 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 21:46:56 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 21:46:56 --> Final output sent to browser
+DEBUG - 2014-10-05 21:46:56 --> Total execution time: 0.1622
+DEBUG - 2014-10-05 21:46:56 --> Config Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Hooks Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 21:46:56 --> URI Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Router Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Output Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Security Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Input Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 21:46:56 --> Language Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Loader Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 21:46:56 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 21:46:56 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 21:46:56 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Session Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 21:46:56 --> Session routines successfully run
+DEBUG - 2014-10-05 21:46:56 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Controller Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Model Class Initialized
+DEBUG - 2014-10-05 21:46:56 --> Model Class Initialized
+ERROR - 2014-10-05 21:46:56 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:07:29 --> Config Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:07:29 --> URI Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Router Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Output Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Security Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Input Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:07:29 --> Language Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:07:29 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:07:29 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:07:29 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Session Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:07:29 --> Session routines successfully run
+DEBUG - 2014-10-05 22:07:29 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:07:29 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 22:07:29 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:07:29 --> Final output sent to browser
+DEBUG - 2014-10-05 22:07:29 --> Total execution time: 0.1539
+DEBUG - 2014-10-05 22:07:29 --> Config Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:07:29 --> URI Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Router Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Output Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Security Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Input Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:07:29 --> Language Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:07:29 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:07:29 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:07:29 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Session Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:07:29 --> Session routines successfully run
+DEBUG - 2014-10-05 22:07:29 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:29 --> Model Class Initialized
+ERROR - 2014-10-05 22:07:29 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:07:53 --> Config Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:07:53 --> URI Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Router Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Output Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Security Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Input Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:07:53 --> Language Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:07:53 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:07:53 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:07:53 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Session Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:07:53 --> Session routines successfully run
+DEBUG - 2014-10-05 22:07:53 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:07:53 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 22:07:53 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:07:53 --> Final output sent to browser
+DEBUG - 2014-10-05 22:07:53 --> Total execution time: 0.1508
+DEBUG - 2014-10-05 22:07:53 --> Config Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:07:53 --> URI Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Router Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Output Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Security Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Input Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:07:53 --> Language Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:07:53 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:07:53 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:07:53 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Session Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:07:53 --> Session routines successfully run
+DEBUG - 2014-10-05 22:07:53 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Model Class Initialized
+DEBUG - 2014-10-05 22:07:53 --> Model Class Initialized
+ERROR - 2014-10-05 22:07:53 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:10:02 --> Config Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:10:02 --> URI Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Router Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Output Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Security Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Input Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:10:02 --> Language Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:10:02 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:10:02 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:10:02 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Session Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:10:02 --> Session routines successfully run
+DEBUG - 2014-10-05 22:10:02 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:10:02 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 22:10:02 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:10:02 --> Final output sent to browser
+DEBUG - 2014-10-05 22:10:02 --> Total execution time: 0.1576
+DEBUG - 2014-10-05 22:10:02 --> Config Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:10:02 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:10:03 --> URI Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Router Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Output Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Security Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Input Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:10:03 --> Language Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:10:03 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:10:03 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:10:03 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Session Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:10:03 --> Session routines successfully run
+DEBUG - 2014-10-05 22:10:03 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:03 --> Model Class Initialized
+ERROR - 2014-10-05 22:10:03 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:10:31 --> Config Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:10:31 --> URI Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> Router Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> Output Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> Security Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> Input Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:10:31 --> Language Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:10:31 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:10:31 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:10:31 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:10:31 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Session Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:10:32 --> Session routines successfully run
+DEBUG - 2014-10-05 22:10:32 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:10:32 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 22:10:32 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:10:32 --> Final output sent to browser
+DEBUG - 2014-10-05 22:10:32 --> Total execution time: 0.1600
+DEBUG - 2014-10-05 22:10:32 --> Config Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:10:32 --> URI Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Router Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Output Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Security Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Input Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:10:32 --> Language Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:10:32 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:10:32 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:10:32 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Session Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:10:32 --> Session routines successfully run
+DEBUG - 2014-10-05 22:10:32 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Model Class Initialized
+DEBUG - 2014-10-05 22:10:32 --> Model Class Initialized
+ERROR - 2014-10-05 22:10:32 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:11:01 --> Config Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:11:01 --> URI Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Router Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Output Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Security Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Input Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:11:01 --> Language Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:11:01 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:11:01 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:11:01 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Session Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:11:01 --> Session routines successfully run
+DEBUG - 2014-10-05 22:11:01 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Model Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Model Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Model Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Model Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:11:01 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 22:11:01 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:11:01 --> Final output sent to browser
+DEBUG - 2014-10-05 22:11:01 --> Total execution time: 0.1590
+DEBUG - 2014-10-05 22:11:01 --> Config Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:11:01 --> URI Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Router Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Output Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Security Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Input Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:11:01 --> Language Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:11:01 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:11:01 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:11:01 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:11:01 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:11:02 --> Session Class Initialized
+DEBUG - 2014-10-05 22:11:02 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:11:02 --> Session routines successfully run
+DEBUG - 2014-10-05 22:11:02 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:11:02 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:11:02 --> Model Class Initialized
+DEBUG - 2014-10-05 22:11:02 --> Model Class Initialized
+DEBUG - 2014-10-05 22:11:02 --> Model Class Initialized
+DEBUG - 2014-10-05 22:11:02 --> Model Class Initialized
+ERROR - 2014-10-05 22:11:02 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:12:16 --> Config Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:12:16 --> URI Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Router Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Output Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Security Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Input Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:12:16 --> Language Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:12:16 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:12:16 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:12:16 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Session Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:12:16 --> Session routines successfully run
+DEBUG - 2014-10-05 22:12:16 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:12:16 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 22:12:16 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:12:16 --> Final output sent to browser
+DEBUG - 2014-10-05 22:12:16 --> Total execution time: 0.1344
+DEBUG - 2014-10-05 22:12:16 --> Config Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:12:16 --> URI Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Router Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Output Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Security Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Input Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:12:16 --> Language Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:12:16 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:12:16 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:12:16 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Session Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:12:16 --> Session routines successfully run
+DEBUG - 2014-10-05 22:12:16 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:16 --> Model Class Initialized
+ERROR - 2014-10-05 22:12:16 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:12:20 --> Config Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:12:20 --> URI Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Router Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 22:12:20 --> Output Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Security Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Input Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:12:20 --> Language Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:12:20 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:12:20 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:12:20 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Session Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:12:20 --> Session routines successfully run
+DEBUG - 2014-10-05 22:12:20 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:20 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:21 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:12:21 --> Final output sent to browser
+DEBUG - 2014-10-05 22:12:21 --> Total execution time: 0.1377
+DEBUG - 2014-10-05 22:12:47 --> Config Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:12:47 --> URI Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Router Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Output Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Security Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Input Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:12:47 --> Language Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:12:47 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:12:47 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:12:47 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Session Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:12:47 --> Session routines successfully run
+DEBUG - 2014-10-05 22:12:47 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:12:47 --> Config Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:12:47 --> URI Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Router Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 22:12:47 --> Output Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Security Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Input Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:12:47 --> Language Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:12:47 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:12:47 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:12:47 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Session Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:12:47 --> Session routines successfully run
+DEBUG - 2014-10-05 22:12:47 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:12:47 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:12:47 --> Final output sent to browser
+DEBUG - 2014-10-05 22:12:47 --> Total execution time: 0.1241
+DEBUG - 2014-10-05 22:29:31 --> Config Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:29:31 --> URI Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Router Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Output Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Security Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Input Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:29:31 --> Language Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:29:31 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:29:31 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:29:31 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Session Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:29:31 --> Session routines successfully run
+DEBUG - 2014-10-05 22:29:31 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Model Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Model Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Model Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Model Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:29:31 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 22:29:31 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:29:31 --> Final output sent to browser
+DEBUG - 2014-10-05 22:29:31 --> Total execution time: 0.1449
+DEBUG - 2014-10-05 22:29:31 --> Config Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:29:31 --> URI Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Router Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Output Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Security Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Input Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:29:31 --> Language Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:29:31 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:29:31 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:29:31 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Session Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:29:31 --> Session routines successfully run
+DEBUG - 2014-10-05 22:29:31 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Model Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Model Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Model Class Initialized
+DEBUG - 2014-10-05 22:29:31 --> Model Class Initialized
+ERROR - 2014-10-05 22:29:31 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:35:18 --> Config Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:35:18 --> URI Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Router Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Output Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Security Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Input Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:35:18 --> Language Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:35:18 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:35:18 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:35:18 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Session Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:35:18 --> Session routines successfully run
+DEBUG - 2014-10-05 22:35:18 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:18 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:35:18 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 22:35:18 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:35:18 --> Final output sent to browser
+DEBUG - 2014-10-05 22:35:18 --> Total execution time: 0.1664
+DEBUG - 2014-10-05 22:35:19 --> Config Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:35:19 --> URI Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Router Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Output Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Security Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Input Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:35:19 --> Language Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:35:19 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:35:19 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:35:19 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Session Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:35:19 --> Session routines successfully run
+DEBUG - 2014-10-05 22:35:19 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:19 --> Model Class Initialized
+ERROR - 2014-10-05 22:35:19 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:35:21 --> Config Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:35:21 --> URI Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Router Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 22:35:21 --> Output Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Security Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Input Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:35:21 --> Language Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:35:21 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:35:21 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:35:21 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Session Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:35:21 --> Session routines successfully run
+DEBUG - 2014-10-05 22:35:21 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:21 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:35:21 --> Final output sent to browser
+DEBUG - 2014-10-05 22:35:21 --> Total execution time: 0.1318
+DEBUG - 2014-10-05 22:35:25 --> Config Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:35:25 --> URI Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Router Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 22:35:25 --> Output Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Security Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Input Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:35:25 --> Language Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:35:25 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:35:25 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:35:25 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Session Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:35:25 --> Session routines successfully run
+DEBUG - 2014-10-05 22:35:25 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> Model Class Initialized
+DEBUG - 2014-10-05 22:35:25 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:35:25 --> Final output sent to browser
+DEBUG - 2014-10-05 22:35:25 --> Total execution time: 0.1204
+DEBUG - 2014-10-05 22:36:26 --> Config Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:36:26 --> URI Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Router Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 22:36:26 --> Output Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Security Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Input Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:36:26 --> Language Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:36:26 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:36:26 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:36:26 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Session Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:36:26 --> Session routines successfully run
+DEBUG - 2014-10-05 22:36:26 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Model Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Model Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Model Class Initialized
+DEBUG - 2014-10-05 22:36:26 --> Model Class Initialized
+DEBUG - 2014-10-05 22:36:27 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:36:27 --> Final output sent to browser
+DEBUG - 2014-10-05 22:36:27 --> Total execution time: 0.1259
+DEBUG - 2014-10-05 22:36:54 --> Config Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:36:54 --> URI Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Router Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 22:36:54 --> Output Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Security Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Input Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:36:54 --> Language Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:36:54 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:36:54 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:36:54 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Session Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:36:54 --> Session routines successfully run
+DEBUG - 2014-10-05 22:36:54 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Model Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Model Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Model Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> Model Class Initialized
+DEBUG - 2014-10-05 22:36:54 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:36:54 --> Final output sent to browser
+DEBUG - 2014-10-05 22:36:54 --> Total execution time: 0.1184
+DEBUG - 2014-10-05 22:37:47 --> Config Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:37:47 --> URI Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Router Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 22:37:47 --> Output Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Security Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Input Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:37:47 --> Language Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:37:47 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:37:47 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:37:47 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Session Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:37:47 --> Session routines successfully run
+DEBUG - 2014-10-05 22:37:47 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> Model Class Initialized
+DEBUG - 2014-10-05 22:37:47 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:37:47 --> Final output sent to browser
+DEBUG - 2014-10-05 22:37:47 --> Total execution time: 0.1268
+DEBUG - 2014-10-05 22:46:28 --> Config Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:46:28 --> URI Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Router Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Output Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Security Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Input Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:46:28 --> Language Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:46:28 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:46:28 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:46:28 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Session Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:46:28 --> Session routines successfully run
+DEBUG - 2014-10-05 22:46:28 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Model Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Model Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Model Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Model Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 22:46:28 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 22:46:28 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:46:28 --> Final output sent to browser
+DEBUG - 2014-10-05 22:46:28 --> Total execution time: 0.1552
+DEBUG - 2014-10-05 22:46:28 --> Config Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:46:28 --> URI Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Router Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Output Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Security Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Input Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:46:28 --> Language Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:46:28 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:46:28 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:46:28 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Session Class Initialized
+DEBUG - 2014-10-05 22:46:28 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:46:28 --> Session routines successfully run
+DEBUG - 2014-10-05 22:46:29 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:46:29 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:46:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:46:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:46:29 --> Model Class Initialized
+DEBUG - 2014-10-05 22:46:29 --> Model Class Initialized
+ERROR - 2014-10-05 22:46:29 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 22:49:30 --> Config Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:49:30 --> URI Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Router Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Output Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Security Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Input Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:49:30 --> Language Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:49:30 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:49:30 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:49:30 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Session Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:49:30 --> Session routines successfully run
+DEBUG - 2014-10-05 22:49:30 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Config Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:49:30 --> URI Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Router Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 22:49:30 --> Output Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Security Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Input Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:49:30 --> Language Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:49:30 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:49:30 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:49:30 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Session Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:49:30 --> Session routines successfully run
+DEBUG - 2014-10-05 22:49:30 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:30 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:49:30 --> Final output sent to browser
+DEBUG - 2014-10-05 22:49:30 --> Total execution time: 0.1168
+DEBUG - 2014-10-05 22:49:35 --> Config Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:49:35 --> URI Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Router Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Output Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Security Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Input Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:49:35 --> Language Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:49:35 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:49:35 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:49:35 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Session Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:49:35 --> Session routines successfully run
+DEBUG - 2014-10-05 22:49:35 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Config Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:49:35 --> URI Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Router Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 22:49:35 --> Output Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Security Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Input Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:49:35 --> Language Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:49:35 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:49:35 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:49:35 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Session Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:49:35 --> Session routines successfully run
+DEBUG - 2014-10-05 22:49:35 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> Model Class Initialized
+DEBUG - 2014-10-05 22:49:35 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 22:49:35 --> Final output sent to browser
+DEBUG - 2014-10-05 22:49:35 --> Total execution time: 0.1045
+DEBUG - 2014-10-05 22:53:50 --> Config Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Hooks Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 22:53:50 --> URI Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Router Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Output Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Security Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Input Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 22:53:50 --> Language Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Loader Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 22:53:50 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 22:53:50 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 22:53:50 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Session Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 22:53:50 --> Session routines successfully run
+DEBUG - 2014-10-05 22:53:50 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Controller Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Model Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Model Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Model Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> Model Class Initialized
+DEBUG - 2014-10-05 22:53:50 --> DB Transaction Failure
+ERROR - 2014-10-05 22:53:50 --> Query error: Duplicate entry '4-1' for key 'PRIMARY'
+DEBUG - 2014-10-05 22:53:50 --> Language file loaded: language/portuguese-br/db_lang.php
+DEBUG - 2014-10-05 23:00:10 --> Config Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:00:10 --> URI Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Router Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Output Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Security Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Input Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:00:10 --> Language Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:00:10 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:00:10 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:00:10 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Session Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:00:10 --> Session routines successfully run
+DEBUG - 2014-10-05 23:00:10 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Model Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Model Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Model Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Model Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:00:10 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 23:00:10 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:00:10 --> Final output sent to browser
+DEBUG - 2014-10-05 23:00:10 --> Total execution time: 0.1508
+DEBUG - 2014-10-05 23:00:10 --> Config Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:00:10 --> URI Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Router Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Output Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Security Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Input Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:00:10 --> Language Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:00:10 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:00:10 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:00:10 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Session Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:00:10 --> Session routines successfully run
+DEBUG - 2014-10-05 23:00:10 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Model Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Model Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Model Class Initialized
+DEBUG - 2014-10-05 23:00:10 --> Model Class Initialized
+ERROR - 2014-10-05 23:00:10 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:01:18 --> Config Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:01:18 --> URI Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Router Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Output Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Security Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Input Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:01:18 --> Language Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:01:18 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:01:18 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:01:18 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Session Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:01:18 --> Session routines successfully run
+DEBUG - 2014-10-05 23:01:18 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Config Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:01:18 --> URI Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Router Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 23:01:18 --> Output Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Security Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Input Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:01:18 --> Language Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:01:18 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:01:18 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:01:18 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Session Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:01:18 --> Session routines successfully run
+DEBUG - 2014-10-05 23:01:18 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:18 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:01:18 --> Final output sent to browser
+DEBUG - 2014-10-05 23:01:18 --> Total execution time: 0.1302
+DEBUG - 2014-10-05 23:01:22 --> Config Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:01:22 --> URI Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Router Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Output Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Security Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Input Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:01:22 --> Language Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:01:22 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:01:22 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:01:22 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Session Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:01:22 --> Session routines successfully run
+DEBUG - 2014-10-05 23:01:22 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:01:22 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 23:01:22 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:01:22 --> Final output sent to browser
+DEBUG - 2014-10-05 23:01:22 --> Total execution time: 0.1473
+DEBUG - 2014-10-05 23:01:22 --> Config Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:01:22 --> URI Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Router Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Output Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Security Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Input Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:01:22 --> Language Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:01:22 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:01:22 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:01:22 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Session Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:01:22 --> Session routines successfully run
+DEBUG - 2014-10-05 23:01:22 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Model Class Initialized
+DEBUG - 2014-10-05 23:01:22 --> Model Class Initialized
+ERROR - 2014-10-05 23:01:22 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:04:06 --> Config Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:04:06 --> URI Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Router Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Output Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Security Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Input Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:04:06 --> Language Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:04:06 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:04:06 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:04:06 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Session Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:04:06 --> Session routines successfully run
+DEBUG - 2014-10-05 23:04:06 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:06 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:04:06 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 23:04:14 --> Config Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:04:14 --> URI Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Router Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 23:04:14 --> Output Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Security Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Input Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:04:14 --> Language Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:04:14 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:04:14 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:04:14 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Session Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:04:14 --> Session routines successfully run
+DEBUG - 2014-10-05 23:04:14 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:14 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Config Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:04:17 --> URI Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Router Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 23:04:17 --> Output Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Security Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Input Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:04:17 --> Language Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:04:17 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:04:17 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:04:17 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Session Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:04:17 --> Session routines successfully run
+DEBUG - 2014-10-05 23:04:17 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Config Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:04:58 --> URI Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Router Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 23:04:58 --> Output Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Security Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Input Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:04:58 --> Language Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:04:58 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:04:58 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:04:58 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Session Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:04:58 --> Session routines successfully run
+DEBUG - 2014-10-05 23:04:58 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> Model Class Initialized
+DEBUG - 2014-10-05 23:04:58 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:04:58 --> Final output sent to browser
+DEBUG - 2014-10-05 23:04:58 --> Total execution time: 0.1198
+DEBUG - 2014-10-05 23:05:03 --> Config Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:05:03 --> URI Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Router Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Output Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Security Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Input Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:05:03 --> Language Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:05:03 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:05:03 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:05:03 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Session Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:05:03 --> Session routines successfully run
+DEBUG - 2014-10-05 23:05:03 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Model Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Model Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Model Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Model Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:05:03 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 23:05:03 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:05:03 --> Final output sent to browser
+DEBUG - 2014-10-05 23:05:03 --> Total execution time: 0.1509
+DEBUG - 2014-10-05 23:05:03 --> Config Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:05:03 --> URI Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Router Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Output Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Security Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Input Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:05:03 --> Language Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:05:03 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:05:03 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:05:03 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Session Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:05:03 --> Session routines successfully run
+DEBUG - 2014-10-05 23:05:03 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Model Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Model Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Model Class Initialized
+DEBUG - 2014-10-05 23:05:03 --> Model Class Initialized
+ERROR - 2014-10-05 23:05:03 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:11:29 --> Config Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:11:29 --> URI Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Router Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 23:11:29 --> Output Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Security Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Input Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:11:29 --> Language Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:11:29 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:11:29 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:11:29 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Session Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:11:29 --> Session routines successfully run
+DEBUG - 2014-10-05 23:11:29 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Model Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Model Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Model Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> Model Class Initialized
+DEBUG - 2014-10-05 23:11:29 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:11:29 --> Final output sent to browser
+DEBUG - 2014-10-05 23:11:29 --> Total execution time: 0.1222
+DEBUG - 2014-10-05 23:15:48 --> Config Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:15:48 --> URI Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Router Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Output Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Security Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Input Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:15:48 --> Language Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:15:48 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:15:48 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:15:48 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Session Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:15:48 --> Session routines successfully run
+DEBUG - 2014-10-05 23:15:48 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Model Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Model Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Model Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Model Class Initialized
+DEBUG - 2014-10-05 23:15:48 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:15:48 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 23:15:48 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:15:48 --> Final output sent to browser
+DEBUG - 2014-10-05 23:15:48 --> Total execution time: 0.1385
+DEBUG - 2014-10-05 23:15:49 --> Config Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:15:49 --> URI Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Router Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Output Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Security Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Input Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:15:49 --> Language Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:15:49 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:15:49 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:15:49 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Session Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:15:49 --> Session routines successfully run
+DEBUG - 2014-10-05 23:15:49 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Model Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Model Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Model Class Initialized
+DEBUG - 2014-10-05 23:15:49 --> Model Class Initialized
+ERROR - 2014-10-05 23:15:49 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:16:26 --> Config Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:16:26 --> URI Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Router Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Output Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Security Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Input Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:16:26 --> Language Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:16:26 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:16:26 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:16:26 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Session Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:16:26 --> Session routines successfully run
+DEBUG - 2014-10-05 23:16:26 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:26 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:16:26 --> Unable to find validation rule: 
+ERROR - 2014-10-05 23:16:27 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seg C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:16:27 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seg C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:16:27 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seg C:\wamp\www\tweeter-master\application\views\principal.php 372
+DEBUG - 2014-10-05 23:16:27 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:16:27 --> Final output sent to browser
+DEBUG - 2014-10-05 23:16:27 --> Total execution time: 0.1322
+DEBUG - 2014-10-05 23:16:27 --> Config Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:16:27 --> URI Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Router Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Output Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Security Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Input Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:16:27 --> Language Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:16:27 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:16:27 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:16:27 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Session Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:16:27 --> Session routines successfully run
+DEBUG - 2014-10-05 23:16:27 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:27 --> Model Class Initialized
+ERROR - 2014-10-05 23:16:27 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:16:31 --> Config Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:16:31 --> URI Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Router Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Output Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Security Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Input Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:16:31 --> Language Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:16:31 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:16:31 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:16:31 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Session Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:16:31 --> Session routines successfully run
+DEBUG - 2014-10-05 23:16:31 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:16:31 --> Unable to find validation rule: 
+ERROR - 2014-10-05 23:16:31 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seg C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:16:31 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seg C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:16:31 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seg C:\wamp\www\tweeter-master\application\views\principal.php 372
+DEBUG - 2014-10-05 23:16:31 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:16:31 --> Final output sent to browser
+DEBUG - 2014-10-05 23:16:31 --> Total execution time: 0.1979
+DEBUG - 2014-10-05 23:16:31 --> Config Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:16:31 --> URI Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Router Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Output Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Security Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Input Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:16:31 --> Language Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:16:31 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:16:31 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:16:31 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Session Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:16:31 --> Session routines successfully run
+DEBUG - 2014-10-05 23:16:31 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:31 --> Model Class Initialized
+ERROR - 2014-10-05 23:16:31 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:16:56 --> Config Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:16:56 --> URI Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Router Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Output Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Security Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Input Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:16:56 --> Language Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:16:56 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:16:56 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:16:56 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Session Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:16:56 --> Session routines successfully run
+DEBUG - 2014-10-05 23:16:56 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:16:56 --> Unable to find validation rule: 
+ERROR - 2014-10-05 23:16:56 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguidor C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:16:56 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguidor C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:16:56 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguidor C:\wamp\www\tweeter-master\application\views\principal.php 372
+DEBUG - 2014-10-05 23:16:56 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:16:56 --> Final output sent to browser
+DEBUG - 2014-10-05 23:16:56 --> Total execution time: 0.1610
+DEBUG - 2014-10-05 23:16:56 --> Config Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:16:56 --> URI Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Router Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Output Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Security Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Input Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:16:56 --> Language Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:16:56 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:16:56 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:16:56 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Session Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:16:56 --> Session routines successfully run
+DEBUG - 2014-10-05 23:16:56 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:16:56 --> Model Class Initialized
+ERROR - 2014-10-05 23:16:56 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:17:08 --> Config Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:17:08 --> URI Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Router Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Output Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Security Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Input Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:17:08 --> Language Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:17:08 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:17:08 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:17:08 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Session Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:17:08 --> Session routines successfully run
+DEBUG - 2014-10-05 23:17:08 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:17:08 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 23:17:08 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:17:08 --> Final output sent to browser
+DEBUG - 2014-10-05 23:17:08 --> Total execution time: 0.1569
+DEBUG - 2014-10-05 23:17:08 --> Config Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:17:08 --> URI Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Router Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Output Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Security Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Input Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:17:08 --> Language Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:17:08 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:17:08 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:17:08 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Session Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:17:08 --> Session routines successfully run
+DEBUG - 2014-10-05 23:17:08 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:08 --> Model Class Initialized
+ERROR - 2014-10-05 23:17:08 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:17:22 --> Config Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:17:22 --> URI Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> Router Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> Output Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> Security Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> Input Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:17:22 --> Language Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:17:22 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:17:22 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:17:22 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:17:22 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Session Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:17:23 --> Session routines successfully run
+DEBUG - 2014-10-05 23:17:23 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Config Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:17:23 --> URI Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Router Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> No URI present. Default controller set.
+DEBUG - 2014-10-05 23:17:23 --> Output Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Security Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Input Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:17:23 --> Language Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:17:23 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:17:23 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:17:23 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Session Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:17:23 --> Session routines successfully run
+DEBUG - 2014-10-05 23:17:23 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:23 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:17:23 --> Final output sent to browser
+DEBUG - 2014-10-05 23:17:23 --> Total execution time: 0.1310
+DEBUG - 2014-10-05 23:17:26 --> Config Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:17:26 --> URI Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Router Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Output Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Security Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Input Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:17:26 --> Language Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:17:26 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:17:26 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:17:26 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Session Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:17:26 --> Session routines successfully run
+DEBUG - 2014-10-05 23:17:26 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:26 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:17:26 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 23:17:26 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:17:26 --> Final output sent to browser
+DEBUG - 2014-10-05 23:17:26 --> Total execution time: 0.1488
+DEBUG - 2014-10-05 23:17:27 --> Config Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:17:27 --> URI Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Router Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Output Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Security Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Input Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:17:27 --> Language Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:17:27 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:17:27 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:17:27 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Session Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:17:27 --> Session routines successfully run
+DEBUG - 2014-10-05 23:17:27 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:27 --> Model Class Initialized
+ERROR - 2014-10-05 23:17:27 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:17:32 --> Config Class Initialized
+DEBUG - 2014-10-05 23:17:32 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:17:32 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:17:32 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:17:32 --> URI Class Initialized
+DEBUG - 2014-10-05 23:17:32 --> Router Class Initialized
+DEBUG - 2014-10-05 23:17:32 --> Output Class Initialized
+DEBUG - 2014-10-05 23:17:32 --> Security Class Initialized
+DEBUG - 2014-10-05 23:17:32 --> Input Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:17:33 --> Language Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:17:33 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:17:33 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:17:33 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Session Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:17:33 --> Session routines successfully run
+DEBUG - 2014-10-05 23:17:33 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:33 --> DB Transaction Failure
+ERROR - 2014-10-05 23:17:33 --> Query error: Duplicate entry '4-4' for key 'PRIMARY'
+DEBUG - 2014-10-05 23:17:33 --> Language file loaded: language/portuguese-br/db_lang.php
+DEBUG - 2014-10-05 23:17:46 --> Config Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:17:46 --> URI Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Router Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Output Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Security Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Input Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:17:46 --> Language Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:17:46 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:17:46 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:17:46 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Session Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:17:46 --> Session routines successfully run
+DEBUG - 2014-10-05 23:17:46 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> Model Class Initialized
+DEBUG - 2014-10-05 23:17:46 --> DB Transaction Failure
+ERROR - 2014-10-05 23:17:46 --> Query error: Duplicate entry '4-4' for key 'PRIMARY'
+DEBUG - 2014-10-05 23:17:46 --> Language file loaded: language/portuguese-br/db_lang.php
+DEBUG - 2014-10-05 23:18:37 --> Config Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:18:37 --> URI Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Router Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Output Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Security Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Input Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:18:37 --> Language Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:18:37 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:18:37 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:18:37 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Session Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:18:37 --> Session routines successfully run
+DEBUG - 2014-10-05 23:18:37 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Model Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Model Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Model Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> Model Class Initialized
+DEBUG - 2014-10-05 23:18:37 --> DB Transaction Failure
+ERROR - 2014-10-05 23:18:37 --> Query error: Duplicate entry '4-4' for key 'PRIMARY'
+DEBUG - 2014-10-05 23:18:37 --> Language file loaded: language/portuguese-br/db_lang.php
+DEBUG - 2014-10-05 23:21:08 --> Config Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:21:08 --> URI Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Router Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Output Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Security Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Input Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:21:08 --> Language Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:21:08 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:21:08 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:21:08 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Session Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:21:08 --> Session routines successfully run
+DEBUG - 2014-10-05 23:21:08 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> Model Class Initialized
+DEBUG - 2014-10-05 23:21:08 --> DB Transaction Failure
+ERROR - 2014-10-05 23:21:08 --> Query error: Duplicate entry '4-4' for key 'PRIMARY'
+DEBUG - 2014-10-05 23:21:08 --> Language file loaded: language/portuguese-br/db_lang.php
+DEBUG - 2014-10-05 23:38:33 --> Config Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:38:33 --> URI Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Router Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Output Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Security Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Input Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:38:33 --> Language Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:38:33 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:38:33 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:38:33 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Session Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:38:33 --> Session routines successfully run
+DEBUG - 2014-10-05 23:38:33 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Model Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Model Class Initialized
+DEBUG - 2014-10-05 23:38:33 --> Model Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Config Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:38:37 --> URI Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Router Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Output Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Security Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Input Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:38:37 --> Language Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:38:37 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:38:37 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:38:37 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Session Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:38:37 --> Session routines successfully run
+DEBUG - 2014-10-05 23:38:37 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Model Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Model Class Initialized
+DEBUG - 2014-10-05 23:38:37 --> Model Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Config Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:46:29 --> URI Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Router Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Output Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Security Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Input Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:46:29 --> Language Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:46:29 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:46:29 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:46:29 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Session Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:46:29 --> Session routines successfully run
+DEBUG - 2014-10-05 23:46:29 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Model Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Model Class Initialized
+DEBUG - 2014-10-05 23:46:29 --> Model Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Config Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:46:47 --> URI Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Router Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Output Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Security Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Input Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:46:47 --> Language Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:46:47 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:46:47 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:46:47 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Session Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:46:47 --> Session routines successfully run
+DEBUG - 2014-10-05 23:46:47 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Model Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Model Class Initialized
+DEBUG - 2014-10-05 23:46:47 --> Model Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Config Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:46:52 --> URI Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Router Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Output Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Security Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Input Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:46:52 --> Language Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:46:52 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:46:52 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:46:52 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Session Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:46:52 --> Session routines successfully run
+DEBUG - 2014-10-05 23:46:52 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Model Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Model Class Initialized
+DEBUG - 2014-10-05 23:46:52 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Config Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:47:12 --> URI Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Router Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Output Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Security Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Input Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:47:12 --> Language Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:47:12 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:47:12 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:47:12 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:47:13 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:47:13 --> Session Class Initialized
+DEBUG - 2014-10-05 23:47:13 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:47:13 --> Session routines successfully run
+DEBUG - 2014-10-05 23:47:13 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:47:13 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:47:13 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:13 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:13 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:13 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:13 --> Final output sent to browser
+DEBUG - 2014-10-05 23:47:13 --> Total execution time: 0.1143
+DEBUG - 2014-10-05 23:47:17 --> Config Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:47:17 --> URI Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Router Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Output Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Security Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Input Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:47:17 --> Language Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:47:17 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:47:17 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:47:17 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Session Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:47:17 --> Session routines successfully run
+DEBUG - 2014-10-05 23:47:17 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:47:17 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 23:47:17 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:47:17 --> Final output sent to browser
+DEBUG - 2014-10-05 23:47:17 --> Total execution time: 0.1470
+DEBUG - 2014-10-05 23:47:17 --> Config Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:47:17 --> URI Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Router Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Output Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Security Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Input Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:47:17 --> Language Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:47:17 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:47:17 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:47:17 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Session Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:47:17 --> Session routines successfully run
+DEBUG - 2014-10-05 23:47:17 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:17 --> Model Class Initialized
+ERROR - 2014-10-05 23:47:17 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:47:20 --> Config Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:47:20 --> URI Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Router Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Output Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Security Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Input Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:47:20 --> Language Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:47:20 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:47:20 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:47:20 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Session Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:47:20 --> Session routines successfully run
+DEBUG - 2014-10-05 23:47:20 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:20 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:47:20 --> Unable to find validation rule: 
+ERROR - 2014-10-05 23:47:20 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguido C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:47:21 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguido C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:47:21 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguido C:\wamp\www\tweeter-master\application\views\principal.php 372
+DEBUG - 2014-10-05 23:47:21 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:47:21 --> Final output sent to browser
+DEBUG - 2014-10-05 23:47:21 --> Total execution time: 0.1742
+DEBUG - 2014-10-05 23:47:21 --> Config Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:47:21 --> URI Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Router Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Output Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Security Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Input Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:47:21 --> Language Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:47:21 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:47:21 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:47:21 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Session Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:47:21 --> Session routines successfully run
+DEBUG - 2014-10-05 23:47:21 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:21 --> Model Class Initialized
+ERROR - 2014-10-05 23:47:21 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:47:55 --> Config Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:47:55 --> URI Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Router Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Output Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Security Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Input Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:47:55 --> Language Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:47:55 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:47:55 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:47:55 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Session Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:47:55 --> Session routines successfully run
+DEBUG - 2014-10-05 23:47:55 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Model Class Initialized
+DEBUG - 2014-10-05 23:47:55 --> Final output sent to browser
+DEBUG - 2014-10-05 23:47:55 --> Total execution time: 0.1137
+DEBUG - 2014-10-05 23:48:00 --> Config Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:48:00 --> URI Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Router Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Output Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Security Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Input Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:48:00 --> Language Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:48:00 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:48:00 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:48:00 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Session Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:48:00 --> Session routines successfully run
+DEBUG - 2014-10-05 23:48:00 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Model Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Model Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Model Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Model Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:48:00 --> Unable to find validation rule: 
+DEBUG - 2014-10-05 23:48:00 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:48:00 --> Final output sent to browser
+DEBUG - 2014-10-05 23:48:00 --> Total execution time: 0.1719
+DEBUG - 2014-10-05 23:48:00 --> Config Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:48:00 --> URI Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Router Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Output Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Security Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Input Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:48:00 --> Language Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:48:00 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:48:00 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:48:00 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Session Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:48:00 --> Session routines successfully run
+DEBUG - 2014-10-05 23:48:00 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Model Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Model Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Model Class Initialized
+DEBUG - 2014-10-05 23:48:00 --> Model Class Initialized
+ERROR - 2014-10-05 23:48:00 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:50:40 --> Config Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:50:40 --> URI Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Router Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Output Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Security Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Input Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:50:40 --> Language Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:50:40 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:50:40 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:50:40 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Session Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:50:40 --> Session routines successfully run
+DEBUG - 2014-10-05 23:50:40 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Model Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Model Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Model Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Model Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:50:40 --> Unable to find validation rule: 
+ERROR - 2014-10-05 23:50:40 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguido C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:50:40 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguido C:\wamp\www\tweeter-master\application\views\principal.php 372
+DEBUG - 2014-10-05 23:50:40 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:50:40 --> Final output sent to browser
+DEBUG - 2014-10-05 23:50:40 --> Total execution time: 0.1745
+DEBUG - 2014-10-05 23:50:40 --> Config Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:50:40 --> URI Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Router Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Output Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Security Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Input Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:50:40 --> Language Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:50:40 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:50:40 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:50:40 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Session Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:50:40 --> Session routines successfully run
+DEBUG - 2014-10-05 23:50:40 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Model Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Model Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Model Class Initialized
+DEBUG - 2014-10-05 23:50:40 --> Model Class Initialized
+ERROR - 2014-10-05 23:50:40 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:53:56 --> Config Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:53:56 --> URI Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Router Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Output Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Security Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Input Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:53:56 --> Language Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:53:56 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:53:56 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:53:56 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Session Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:53:56 --> Session routines successfully run
+DEBUG - 2014-10-05 23:53:56 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:53:56 --> Unable to find validation rule: 
+ERROR - 2014-10-05 23:53:56 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguido C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:53:56 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguido C:\wamp\www\tweeter-master\application\views\principal.php 372
+DEBUG - 2014-10-05 23:53:56 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:53:56 --> Final output sent to browser
+DEBUG - 2014-10-05 23:53:56 --> Total execution time: 0.1536
+DEBUG - 2014-10-05 23:53:56 --> Config Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:53:56 --> URI Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Router Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Output Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Security Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Input Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:53:56 --> Language Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:53:56 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:53:56 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:53:56 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Session Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:53:56 --> Session routines successfully run
+DEBUG - 2014-10-05 23:53:56 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Model Class Initialized
+DEBUG - 2014-10-05 23:53:56 --> Model Class Initialized
+ERROR - 2014-10-05 23:53:56 --> 404 Page Not Found --> usuario/imagens
+DEBUG - 2014-10-05 23:56:53 --> Config Class Initialized
+DEBUG - 2014-10-05 23:56:53 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:56:53 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:56:53 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:56:53 --> URI Class Initialized
+DEBUG - 2014-10-05 23:56:53 --> Router Class Initialized
+DEBUG - 2014-10-05 23:56:53 --> Output Class Initialized
+DEBUG - 2014-10-05 23:56:53 --> Security Class Initialized
+DEBUG - 2014-10-05 23:56:53 --> Input Class Initialized
+DEBUG - 2014-10-05 23:56:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:56:53 --> Language Class Initialized
+DEBUG - 2014-10-05 23:56:53 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:56:54 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:56:54 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:56:54 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Session Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:56:54 --> Session routines successfully run
+DEBUG - 2014-10-05 23:56:54 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Model Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Model Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Model Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Model Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Language file loaded: language/portuguese-br/form_validation_lang.php
+DEBUG - 2014-10-05 23:56:54 --> Unable to find validation rule: 
+ERROR - 2014-10-05 23:56:54 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguido C:\wamp\www\tweeter-master\application\views\principal.php 372
+ERROR - 2014-10-05 23:56:54 --> Severity: Notice  --> Undefined property: stdClass::$codigo_seguido C:\wamp\www\tweeter-master\application\views\principal.php 372
+DEBUG - 2014-10-05 23:56:54 --> File loaded: application/views/principal.php
+DEBUG - 2014-10-05 23:56:54 --> Final output sent to browser
+DEBUG - 2014-10-05 23:56:54 --> Total execution time: 0.1679
+DEBUG - 2014-10-05 23:56:54 --> Config Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Hooks Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Utf8 Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> UTF-8 Support Enabled
+DEBUG - 2014-10-05 23:56:54 --> URI Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Router Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Output Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Security Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Input Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-10-05 23:56:54 --> Language Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Loader Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Helper loaded: form_helper
+DEBUG - 2014-10-05 23:56:54 --> Helper loaded: url_helper
+DEBUG - 2014-10-05 23:56:54 --> Helper loaded: cookie_helper
+DEBUG - 2014-10-05 23:56:54 --> Database Driver Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Session Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Helper loaded: string_helper
+DEBUG - 2014-10-05 23:56:54 --> Session routines successfully run
+DEBUG - 2014-10-05 23:56:54 --> Form Validation Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Controller Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Model Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Model Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Model Class Initialized
+DEBUG - 2014-10-05 23:56:54 --> Model Class Initialized
+ERROR - 2014-10-05 23:56:54 --> 404 Page Not Found --> usuario/imagens

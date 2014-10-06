@@ -23,6 +23,11 @@
 		{
 			return $this->db->where('email', $email)->get('usuarios')->row();
 		}
+		
+		
+		
+		
+		
 
 		public function getByLogin($login)
 		{
