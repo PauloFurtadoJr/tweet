@@ -213,8 +213,8 @@
 			);
 
 			$this->form_validation->set_rules($grupo);
-		} // function
-
+		} 
+		
 		public function login_check($str)
 		{
 			if(preg_match('/[A-Za-z0-9]+/', $str))
@@ -234,8 +234,6 @@
 			$this->session->sess_destroy();
 			redirect(base_url());
 		}
-
-
 
 
 		public function postartweet()		//função criada para a postagem de tweets
@@ -259,7 +257,6 @@
 		}
 		
 		
-
         public function seguir()
 		{
 			$dados["codigo_seguidor"]=$this->session->userdata("user_id");
@@ -278,49 +275,91 @@
 			redirect(base_url());
 		}
 		
-		
+		public function atualizarcadastro()		//esta foi criada para atualizar os dados da conta
+
+		{ 
+				// monta o vetor de dados
+				$usuario = $this->Usuarios->get($this->session->userdata('user_id'));
+				$dados = array();
+				$dados['usuario'] = $usuario;
+				// carrega a view
+				$this->load->view('atualizarconta', $dados);
+	
+			
+		}
+
+
+		public function atualizarcontacompleta()
+		{
+			$this->_set_validation_rules('atualizarcontacompleta');
+
+			if ($this->form_validation->run())
+			{
+				// atualizar os dados 
+				$this->Usuarios->update($this->input->
+					post('codigo'), $this->input->post());
+
+				// gravar dados na sessão 
+				$this->session->set_userdata(
+					array(
+						'user_id' => $this->input->post('codigo')
+						)
+					);
+
+				// redirecionar para timeline
+				redirect(base_url());
+			}
+			else {
+				// recarrega o formulário para exibir os erros de validação
+				$this->atualizarconta();
+			}
+		} // function
+        
 
 
 
-
-		//Search usuarios
-		public function buscar()		
+		public function buscar()		//criado ##########
 
 		{ 
 			
-			// rules to form validation
+			// regras para validação do formulário
 			$this->_set_validation_rules('buscar');
 
-			//validado com sucesso
+			// se o a validação do formulário foi bem sucedida
 			if ($this->form_validation->run())
 			{
 				
-				// search no banco de dados
+				// procura os dados no bd
+
 				$usuario = $this->Usuarios->get($this->session->userdata('user_id'));
 				$dados = array();
 				$dados['usuario']        = $usuario;
 				$dados['num_seguidores'] = $this->Seguidores->countFollowers($usuario->codigo);
 				$dados['num_seguindo']   = $this->Seguidores->countFollowing($usuario->codigo);
 				$dados['num_tweets']     = $this->Tweets->countByUser($usuario->codigo);
-				
-				
+				$dados['seguir']		 = FALSE;
+
+				$dados['clicartweets']     = FALSE;
+
 				$resultados = $this->Usuarios->buscar($this->input->post("buscar"));
+
 				foreach ($resultados as $resultado) {
 					$resultado->num_seguidores=$this->Seguidores->countFollowers($resultado->codigo);
 					$resultado->num_seguindo=$this->Seguidores->countFollowing($resultado->codigo);
 					$resultado->num_tweets=$this->Tweets->countByUser($resultado->codigo);
-					//$resultado->codigo_seguido=$this->Seguidores->verificarSeguidor($resultado->codigo)->codigo_seguido;
-				
-					if (!$this->Seguidores->verificarSeguidor($this->session->userdata('user_id'), $resultado->codigo)){
-						
-					$resultado->seguindo = FALSE;				
-				
-					} else {
-					
-						$resultado->seguindo = TRUE;
-					
+					//$resultado->codigo_seguidor=$this->Seguidores->getBySeguido($resultado->codigo)->codigo_seguidor;
+					$resultado->mostrarseguir=	FALSE;
+
+					if (!$this->Seguidores->verificarSeguidor(
+						$this->session->userdata('user_id'),
+						$resultado->codigo)){
+						$resultado->seguindo = FALSE;
 					}
-				
+					else{
+						$resultado->seguindo = TRUE;
+					}
+
+
 				}
 				$dados["resultados"]=$resultados;
 				$this->load->view("principal",$dados);
@@ -328,6 +367,52 @@
 				
 			}
 		}
+
+        public function quemseguir()		//mostra os usuarios que você não está seguindo e pode seguir
+
+		{ 
+
+				// procura os dados no bd
+
+				$usuario = $this->Usuarios->get($this->session->userdata('user_id'));
+				$dados = array();
+				$dados['usuario']        = $usuario;
+				$dados['num_seguidores'] = $this->Seguidores->countFollowers($usuario->codigo);
+				$dados['num_seguindo']   = $this->Seguidores->countFollowing($usuario->codigo);
+				$dados['num_tweets']     = $this->Tweets->countByUser($usuario->codigo);
+
+				$dados['clicartweets']     = FALSE;
+
+				$resultados = $this->Usuarios->buscar($this->input->post("buscar"));
+
+				foreach ($resultados as $resultado) {
+
+					$resultado->mostrarseguir=	TRUE;
+
+
+					if (!$this->Seguidores->verificarSeguidor(
+						$this->session->userdata('user_id'),
+						$resultado->codigo)){
+						$resultado->seguindo = FALSE;
+
+
+					}
+					else{
+						$resultado->seguindo = TRUE;
+					}
+
+
+				}
+
+
+				$dados["resultados"]=$resultados;
+				$this->load->view("principal",$dados);
+
+				
+				
+		}
+
+
 	} // fim da classe
 
 /* End of file usuario.php */
